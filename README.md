@@ -1,3 +1,17 @@
+# Emergency Button Power App
+Power App for any scenario where a user requires emergency assistance from a Supervisor.
+
+The **Emergency Button Power App** can be used by organisations who are using Microsoft Teams to enable any set of users to request assistance from supervisors. Features include:
+
+-   Requesting assistance on different categories from a Power App
+-   Adaptive cards posted in supervisors Teams that allows them to assign themselves to assist
+-   Reminders sent at a configurable interval 
+-   Reminders sent for a configurable number of occasions
+-   Notifications sent to requestor informing them of who has been assigned 
+-   Notifications sent to assigned supervisor informing them of who needs assistance 
+-   Audit trail held in SharePoint site
+
+
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please
