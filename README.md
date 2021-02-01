@@ -11,9 +11,11 @@ urlFragment: microsoft-teams-app-get-support
 # Get Support App
 Power App for any scenario where a user requires emergency assistance from a Supervisor.
 
-The **Get Support App** can be used by organisations who are using Microsoft Teams to enable any set of users to request assistance from supervisors. This app contains two parts: 
+The **Get Support App** can be used by organisations who are using Microsoft Teams to enable any set of users to request assistance from supervisors. This app contains two parts:
+
 a) PowerApp to raise and deal with escalations
 b) PowerBI to analyze trends and patterns with escalations
+
 
 Features include:
 -   Requesting assistance on different categories from a Power App
