@@ -9,6 +9,9 @@ urlFragment: microsoft-teams-app-get-support
 ---
 
 # Get Support App
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-app-get-support/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-app-get-support/wiki/Deployment-Guide) |
+| ---- | ---- |
+
 Power App for any scenario where a user requires emergency assistance from a Supervisor.
 
 The **Get Support App** can be used by organisations who are using Microsoft Teams to enable any set of users to request assistance from supervisors. This app contains two parts:
